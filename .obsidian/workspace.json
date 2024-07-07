@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50课程笔记.md"
+                "file": "Nand2Tetris.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50课程笔记.md",
+                "file": "Nand2Tetris.md",
                 "mode": "preview",
                 "source": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50课程笔记.md",
+                "file": "Nand2Tetris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50课程笔记.md",
+                "file": "Nand2Tetris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +189,8 @@
   },
   "active": "4494b9acacc4ccff",
   "lastOpenFiles": [
+    "CS50x2024 problem set & practice.md",
+    "CS50课程笔记.md",
     "CS50/Nand2Tetris.md",
     "CS50/CS50课程笔记.md",
     "CS50/CS50x2024 problem set & practice.md",
@@ -196,8 +198,6 @@
     "CS50/CS50图片/Pasted image 20240620214714.png",
     "CS50/CS50图片",
     "Nand2Tetris.md",
-    "CS50课程笔记.md",
-    "CS50x2024 problem set & practice.md",
     "CS50图片/Pasted image 20240620214714.png",
     "CS50图片/Pasted image 20240625202713.png",
     "CS50图片",
