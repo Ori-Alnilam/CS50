@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "48ee1388febfa3b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "735f40711722c0c6",
+        "type": "tabs",
+        "dimension": 22.25201072386059,
+        "children": [
+          {
+            "id": "488868552f58f1a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS50课程笔记.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "020c2c7c9370b42e",
+        "type": "tabs",
+        "dimension": 77.7479892761394,
+        "children": [
+          {
+            "id": "4494b9acacc4ccff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50课程笔记.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a415daa86432b124",
+    "type": "split",
+    "children": [
+      {
+        "id": "d81510a95c5c0ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c99bef4fa3a659a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc1aac8d7e65f16c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#two_words",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14387c88da2dde40",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7cfdabfb4d89a10e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f78de58b2de3596e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee5b50d07ff23a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f90e4bebd06489b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "886f55cb1d50dfae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "81c2d2bd88eba246",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54cc3e6a0c0e01e1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f396c26adad0d89e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS50课程笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "94b838e7367b1bc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS50课程笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.32794189453125,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "4494b9acacc4ccff",
+  "lastOpenFiles": [
+    "CS50/Nand2Tetris.md",
+    "CS50/CS50课程笔记.md",
+    "CS50/CS50x2024 problem set & practice.md",
+    "CS50/CS50图片/Pasted image 20240625202713.png",
+    "CS50/CS50图片/Pasted image 20240620214714.png",
+    "CS50/CS50图片",
+    "Nand2Tetris.md",
+    "CS50课程笔记.md",
+    "CS50x2024 problem set & practice.md",
+    "CS50图片/Pasted image 20240620214714.png",
+    "CS50图片/Pasted image 20240625202713.png",
+    "CS50图片",
+    "cs50/CS50课程笔记.md",
+    "CS50/cs50图片/Pasted image 20240625202713.png",
+    "CS50/cs50图片/Pasted image 20240620214714.png",
+    "CS50/cs50图片",
+    "CS50",
+    "cs50/cs50图片/Pasted image 20240620214714.png",
+    "cs50/cs50图片/Pasted image 20240625202713.png",
+    "cs50/CS50x2024 problem set & practice.md",
+    "🥑Blue Topaz Themes Tips.md",
+    "从这开始.md",
+    "Example/分栏效果示例.md",
+    "Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
+    "Example/真Kanban.md",
+    "Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
+    "Pasted image 20240625202713.png",
+    "未命名.md",
+    "cs50/cs50图片",
+    "cs50/学习记录/Snipaste_2024-05-26_18-33-05.png",
+    "未命名.canvas",
+    "cs50/Nand2Tetris.md",
+    "小梦/灵感记录.md",
+    "小梦/小梦想说的话（续）.md",
+    "小梦/小梦想说的话（再续）.md",
+    "钢混/11.md",
+    "钢混",
+    "Example/ob提示框(callout)样式展示.md",
+    "Example/涂黑和挖空效果（三种语法）.md",
+    "小梦/图片",
+    "cs50/碎碎念.pdf",
+    "小梦",
+    "ddb2024-05-26_13-25-30.md",
+    "cs50/学习记录",
+    "学习计划表.md",
+    "Example/timeline callout效果.md"
+  ]
+}
