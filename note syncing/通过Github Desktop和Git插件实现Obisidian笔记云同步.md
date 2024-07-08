@@ -1,3 +1,3 @@
 # 新建仓库
 打开Obisidian -- 创建
-![[Pasted image 20240708122535.png]]
+![[Snipaste_2024-07-08_12-25-09.png]]
