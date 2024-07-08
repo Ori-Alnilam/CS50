@@ -10,4 +10,5 @@ Name->`testing`，Local path->`E:\`（需要**和Obisidian笔记库路径一致*
 点击publish repository，可以选择是否公开
 回到Obisidian，设置 -- 第三方插件 -- 关闭安全模式
 浏览插件市场 -- 搜索Git -- 安装Git插件
-启用Git插件，如果报错请看这篇文章，我的mei'yu
+启用Git插件，如果报错请看这篇文章，这个测试没出问题，就继续了
+点击选项，可以设置
