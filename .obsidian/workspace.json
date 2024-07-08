@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3078405946af2a37",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "picture/Pasted image 20240620214714.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note syncing/通过Github Desktop和Git插件实现Obisidian笔记云同步.md",
+                "file": "picture/Pasted image 20240620214714.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note syncing/通过Github Desktop和Git插件实现Obisidian笔记云同步.md",
+                "file": "picture/Pasted image 20240620214714.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,8 +180,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c99bef4fa3a659a0",
+  "active": "3078405946af2a37",
   "lastOpenFiles": [
+    "note syncing/通过Github Desktop和Git插件实现Obisidian笔记云同步.md",
+    "picture/Snipaste_2024-07-08_13-17-04.png",
     "picture/Snipaste_2024-07-08_13-12-19.png",
     "picture/Snipaste_2024-07-08_13-11-55.png",
     "picture/Snipaste_2024-07-08_13-11-25.png",
@@ -179,11 +192,8 @@
     "picture/Snipaste_2024-07-08_13-01-12.png",
     "picture/Snipaste_2024-07-08_13-00-28.png",
     "CS50 notes.md",
-    "note syncing/通过Github Desktop和Git插件实现Obisidian笔记云同步.md",
     "picture/Snipaste_2024-07-08_12-54-16.png",
     "picture/Snipaste_2024-07-08_12-53-50.png",
-    "picture/Snipaste_2024-07-08_12-52-45.png",
-    "picture/Snipaste_2024-07-08_12-47-56.png",
     "note syncing",
     "Nand2Tetris.md",
     "CS50x2024 problem set & practice.md",

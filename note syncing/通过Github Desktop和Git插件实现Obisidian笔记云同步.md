@@ -16,3 +16,4 @@ Name->`testing`，Local path->`E:\`（需要**和Obisidian笔记库路径一致*
 # 检查是否成功
 Obisidian中打开笔记库，修改`欢迎.md`笔记内容
 在自己的GitHub中查看是否同步了修改内容
+完成
