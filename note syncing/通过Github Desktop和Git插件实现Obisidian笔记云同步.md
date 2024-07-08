@@ -8,4 +8,4 @@ Name->`testing`，Local path->`E:\`（需要和obisidian笔记库路径一致，
 点击创建
 点击publish repository，可以选择是否公开
 回到Obisidian，设置 -- 第三方插件 -- 关闭安全模式
-浏览插件shi
+浏览插件市场 -- 搜索Git -- 安装Git插件
