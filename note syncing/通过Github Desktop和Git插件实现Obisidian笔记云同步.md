@@ -6,5 +6,4 @@
 打开Github Desktop -- File -- New repository
 Name->`testing`，Local path->`E:\`（需要和obisidian笔记库路径一致，在这个示例中都是`E:\`）
 点击创建
-点击publish repository
-x
+点击publish repository，可以选择是否公开
