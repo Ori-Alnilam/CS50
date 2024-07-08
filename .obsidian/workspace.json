@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50 notes.md"
+                "file": "note syncing/note syncing.md"
               }
             }
           }
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50 notes.md",
+                "file": "note syncing/note syncing.md",
                 "mode": "source",
                 "source": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50 notes.md",
+                "file": "note syncing/note syncing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50 notes.md",
+                "file": "note syncing/note syncing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,11 +200,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c99bef4fa3a659a0",
+  "active": "ae45f43548a45424",
   "lastOpenFiles": [
-    "笔记同步/未命名.md",
     "CS50 notes.md",
-    "笔记同步",
+    "note syncing/note syncing.md",
+    "note syncing",
     "Nand2Tetris.md",
     "CS50x2024 problem set & practice.md",
     "CS50/Nand2Tetris.md",
