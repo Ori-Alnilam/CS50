@@ -1,4 +1,4 @@
-# 新建仓库
+# 新建O'bi'si
 打开Obisidian -- 创建
 名称`testing`，位置`E:\`
 点击创建后，在E盘会出现一个`testing`的文件夹
