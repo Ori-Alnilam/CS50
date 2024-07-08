@@ -36,8 +36,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ae45f43548a45424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50课程笔记.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f78de58b2de3596e",
@@ -188,11 +200,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4494b9acacc4ccff",
+  "active": "ae45f43548a45424",
   "lastOpenFiles": [
+    "笔记同步/未命名.md",
+    "CS50课程笔记.md",
+    "笔记同步",
     "Nand2Tetris.md",
     "CS50x2024 problem set & practice.md",
-    "CS50课程笔记.md",
     "CS50/Nand2Tetris.md",
     "CS50/CS50课程笔记.md",
     "CS50/CS50x2024 problem set & practice.md",
@@ -217,7 +231,6 @@
     "Example/真Kanban.md",
     "Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
     "Pasted image 20240625202713.png",
-    "未命名.md",
     "cs50/cs50图片",
     "cs50/学习记录/Snipaste_2024-05-26_18-33-05.png",
     "未命名.canvas",
@@ -233,7 +246,6 @@
     "cs50/碎碎念.pdf",
     "小梦",
     "ddb2024-05-26_13-25-30.md",
-    "cs50/学习记录",
     "学习计划表.md",
     "Example/timeline callout效果.md"
   ]
