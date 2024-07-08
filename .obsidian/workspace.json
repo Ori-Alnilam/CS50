@@ -18,19 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "3078405946af2a37",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "picture/Pasted image 20240620214714.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picture/Pasted image 20240620214714.png",
+                "file": "note syncing/通过Github Desktop和Git插件实现Obisidian笔记云同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picture/Pasted image 20240620214714.png",
+                "file": "note syncing/通过Github Desktop和Git插件实现Obisidian笔记云同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,9 +169,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3078405946af2a37",
+  "active": "ae45f43548a45424",
   "lastOpenFiles": [
+    "picture/Snipaste_2024-07-08_12-28-45.png",
     "note syncing/通过Github Desktop和Git插件实现Obisidian笔记云同步.md",
+    "picture/Snipaste_2024-07-08_12-25-09.png",
+    "picture/Pasted image 20240620214714.png",
     "picture/Snipaste_2024-07-08_13-17-04.png",
     "picture/Snipaste_2024-07-08_13-12-19.png",
     "picture/Snipaste_2024-07-08_13-11-55.png",
@@ -192,8 +184,6 @@
     "picture/Snipaste_2024-07-08_13-01-12.png",
     "picture/Snipaste_2024-07-08_13-00-28.png",
     "CS50 notes.md",
-    "picture/Snipaste_2024-07-08_12-54-16.png",
-    "picture/Snipaste_2024-07-08_12-53-50.png",
     "note syncing",
     "Nand2Tetris.md",
     "CS50x2024 problem set & practice.md",
