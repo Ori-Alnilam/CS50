@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "CS50课程笔记": {
+    "CS50": {
       "main": {
         "id": "48ee1388febfa3b7",
         "type": "split",
@@ -16,7 +16,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "CS50/CS50课程笔记.md"
+                    "file": "CS50课程笔记.md"
                   }
                 }
               }
@@ -33,7 +33,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "CS50/CS50课程笔记.md",
+                    "file": "CS50课程笔记.md",
                     "mode": "source",
                     "source": true
                   }
@@ -147,7 +147,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "CS50/CS50课程笔记.md",
+                    "file": "CS50课程笔记.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -159,7 +159,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "CS50/CS50课程笔记.md",
+                    "file": "CS50课程笔记.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -191,8 +191,8 @@
         }
       },
       "active": "4494b9acacc4ccff",
-      "mtime": "2024-06-29T17:05:19+08:00"
+      "mtime": "2024-07-08T12:10:52+08:00"
     }
   },
-  "active": "CS50课程笔记"
+  "active": "CS50"
 }
