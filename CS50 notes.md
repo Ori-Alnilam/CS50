@@ -1777,7 +1777,7 @@ Else
 
 ### Recursion
 - [!] shorts也有`recursion`的彩蛋哦！==~~当然这个笔记里也藏着recursion的彩蛋啦(✿◡‿◡)~~==
-> Looking for [[CS50课程笔记#week3 Algorithms#Shorts#Recursion|recursion]]?
+> Looking for [[CS50 notes#week3 Algorithms#Shorts#Recursion|recursion]]?
 
 ---
 ***factorial function ($n!$) ***

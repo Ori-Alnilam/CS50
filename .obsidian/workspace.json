@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50课程笔记.md"
+                "file": "CS50 notes.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50课程笔记.md",
+                "file": "CS50 notes.md",
                 "mode": "source",
                 "source": true
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50课程笔记.md",
+                "file": "CS50 notes.md",
                 "mode": "source",
                 "source": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50课程笔记.md",
+                "file": "CS50 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50课程笔记.md",
+                "file": "CS50 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,10 +200,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ae45f43548a45424",
+  "active": "c99bef4fa3a659a0",
   "lastOpenFiles": [
     "笔记同步/未命名.md",
-    "CS50课程笔记.md",
+    "CS50 notes.md",
     "笔记同步",
     "Nand2Tetris.md",
     "CS50x2024 problem set & practice.md",
@@ -213,9 +213,9 @@
     "CS50/CS50图片/Pasted image 20240625202713.png",
     "CS50/CS50图片/Pasted image 20240620214714.png",
     "CS50/CS50图片",
-    "CS50图片/Pasted image 20240620214714.png",
-    "CS50图片/Pasted image 20240625202713.png",
-    "CS50图片",
+    "picture/Pasted image 20240620214714.png",
+    "picture/Pasted image 20240625202713.png",
+    "picture",
     "cs50/CS50课程笔记.md",
     "CS50/cs50图片/Pasted image 20240625202713.png",
     "CS50/cs50图片/Pasted image 20240620214714.png",
