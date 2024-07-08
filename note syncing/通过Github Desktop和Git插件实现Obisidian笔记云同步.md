@@ -15,4 +15,4 @@ Name->`testing`，Local path->`E:\`（需要**和Obisidian笔记库路径一致*
 点击选项，可以设置自动同步间隔时间，这里是1分钟
 # 检查是否成功
 Obisidian中打开笔记库，修改`欢迎.md`笔记内容
-在自己的GitHub中cha'k
+在自己的GitHub中查看testing repository是否同步了修改内容
