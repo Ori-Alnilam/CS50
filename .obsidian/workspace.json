@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note syncing/note syncing.md"
+                "file": "note syncing/通过Github Desktop和Git插件实现Obisidian笔记云同步.md"
               }
             }
           }
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note syncing/note syncing.md",
+                "file": "note syncing/通过Github Desktop和Git插件实现Obisidian笔记云同步.md",
                 "mode": "source",
                 "source": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note syncing/note syncing.md",
+                "file": "note syncing/通过Github Desktop和Git插件实现Obisidian笔记云同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note syncing/note syncing.md",
+                "file": "note syncing/通过Github Desktop和Git插件实现Obisidian笔记云同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
   "active": "ae45f43548a45424",
   "lastOpenFiles": [
     "CS50 notes.md",
-    "note syncing/note syncing.md",
+    "note syncing/通过Github Desktop和Git插件实现Obisidian笔记云同步.md",
     "note syncing",
     "Nand2Tetris.md",
     "CS50x2024 problem set & practice.md",
