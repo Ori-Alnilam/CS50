@@ -845,7 +845,7 @@ void print_pyramid(int h)
 *在每个自定义函数前添加一行注释说明函数功能，我给忘了*
 
 ##### 合起来
-1. 讲解视频https://www.youtube.com/watch?v=ZGAZIH3559g
+1. [mario-less讲解视频](https://www.youtube.com/watch?v=ZGAZIH3559g)
 2. 代码实现：
  ```c
 #include <cs50.h>
@@ -913,7 +913,7 @@ void print_pyramid(int height)
 3. 左对齐->右对齐 -- **打印一个左对齐递减的空格群**，将递增#块“挤”到右边
 ### credit
 #### 作业描述
-1. **作业链接：**https://cs50.harvard.edu/x/2024/psets/1/credit/
+1. [credit](https://cs50.harvard.edu/x/2024/psets/1/credit/)
 2. **作业描述：**
 - 实现Luln算法
 - American Express -- 15位、34or37开头
