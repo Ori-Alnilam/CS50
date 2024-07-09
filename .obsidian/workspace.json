@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "e50148d8e7d3a568",
+        "id": "735f40711722c0c6",
         "type": "tabs",
+        "dimension": 22.25201072386059,
         "children": [
           {
-            "id": "152b28dddbca6212",
+            "id": "488868552f58f1a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS50 notes.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "020c2c7c9370b42e",
+        "type": "tabs",
+        "dimension": 77.7479892761394,
+        "children": [
+          {
+            "id": "4494b9acacc4ccff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,7 +187,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "152b28dddbca6212",
+  "active": "4494b9acacc4ccff",
   "lastOpenFiles": [
     "CS50 notes.md",
     "2024-07-09.md",
