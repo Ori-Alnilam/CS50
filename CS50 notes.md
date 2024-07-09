@@ -1425,7 +1425,7 @@ int increment(int x)
 # week3 Algorithms
 [lecture3中文精翻](https://www.bilibili.com/video/BV1jN4y197WA/?spm_id_from=pageDriver&vd_source=dab7ee9d5c2d604b3bf4fe7298837d4f)
 [week3网站](https://cs50.harvard.edu/x/2024/weeks/3/)
-noteshttps://cs50.harvard.edu/x/2024/notes/3/
+[notes](https://cs50.harvard.edu/x/2024/notes/3/)
 
 > computer scientists discuss efficiency in terms of **the order of** various running times.
 ## 知识点总结
