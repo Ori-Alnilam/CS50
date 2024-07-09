@@ -1415,8 +1415,8 @@ int increment(int x)
 这段代码运行后实际上会输出`x = 1, y = 1`，也就是x的值不变，y加一。要注意在main函数里第3行调用增量函数时，并没有改变x的值，传递进increment函数的只是x的副本（按值传递）；只有在第4行，将调用增量函数的返回值，**赋值**给main函数中的local variabel "y"，这时才改变了main函数中的变量。而在increment中的`x++`并不能在函数被调用之后，改变main函数中的变量x
 
 ## 课后作业
-### pset2
-[[CS50x2024 problem set & practice#pset2]]
+### pset2[[CS50x2024 problem set & practice#pset2|pset2]]
+[[CS50x2024 problem set & practice#pset2|pset2]]
 ### practice2
 [[CS50x2024 problem set & practice#week2]]
 ## ❓写lab和pset遇到的问题：
