@@ -721,10 +721,10 @@ i = i / 2; // 这条语句后i gets the value 4
 - printf格式代码，占位符 %i
 
 ## pset1
-problemhttps://cs50.harvard.edu/x/2024/psets/1/
+[pset1](https://cs50.harvard.edu/x/2024/psets/1/)
 ### mario less
 #### 作业描述
-- 作业链接：[马里奥 - CS50x 2024 --- Mario - CS50x 2024 (harvard.edu)](https://cs50.harvard.edu/x/2024/psets/1/mario/less/)
+- [mario-less](https://cs50.harvard.edu/x/2024/psets/1/mario/less/)
 - 目的：打印一个右对齐金字塔
 
 #### 代码实现
