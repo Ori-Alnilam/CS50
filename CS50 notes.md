@@ -98,7 +98,7 @@ printf("x < y");
 **要求：复习回顾时能根据笔记大纲写出所有的完整代码，熟悉代码是如何一步步优化的**
 
 - [lecture1双语精翻](https://www.bilibili.com/video/BV1Yp4y1J7Rk/?spm_id_from=333.788&vd_source=dab7ee9d5c2d604b3bf4fe7298837d4f)
-- [lecture1官网](https://cs50.harvard.edu/x/2024/notes/1/)
+- [lecture1官网笔记](https://cs50.harvard.edu/x/2024/notes/1/)
 
 **碎碎念**：第一次接触到这种把知识浓缩到全是精华部分呈给你的讲座，几乎没有废话，听得非常享受，也完全不会走神！太感动了，感觉教学的课堂就该是这样的😭
 ### Conditionals
@@ -721,7 +721,7 @@ i = i / 2; // 这条语句后i gets the value 4
 - printf格式代码，占位符 %i
 
 ## pset1
-problem set 1 : https://cs50.harvard.edu/x/2024/psets/1/
+problemhttps://cs50.harvard.edu/x/2024/psets/1/
 ### mario less
 #### 作业描述
 - 作业链接：[马里奥 - CS50x 2024 --- Mario - CS50x 2024 (harvard.edu)](https://cs50.harvard.edu/x/2024/psets/1/mario/less/)
