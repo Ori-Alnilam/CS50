@@ -1046,9 +1046,9 @@ while (Height < 1 || Height > 8);
 > 如果是在main函数之外，我们另外定义的函数要改变main里的变量值，那就需要
 
 # week2 Arrays
-1. lecture2中文精翻：https://www.bilibili.com/video/BV1nP411W7dG/?spm_id_from=333.788&vd_source=dab7ee9d5c2d604b3bf4fe7298837d4f
-2. week2网站：https://cs50.harvard.edu/x/2024/weeks/2/
-3. notes：https://cs50.harvard.edu/x/2024/notes/2/
+1. [lecture2中文精翻](https://www.bilibili.com/video/BV1nP411W7dG/?spm_id_from=333.788&vd_source=dab7ee9d5c2d604b3bf4fe7298837d4f)
+2. [week2网站](https://cs50.harvard.edu/x/2024/weeks/2/)
+3. [notes](https://cs50.harvard.edu/x/2024/notes/2/)
 
 > this is week 2 wherein we're going to take a look at a lower level at how things work, and indeed, among the goals of the course is this bottom-up understanding so that in a couple of weeks' time, even a few years' time, when you encounter some new technology, you'll be able to think back hopefully on some of this week's and this is basic building blocks and primitives and really just deduce how tomorrow's technologies work.
 > 我们会从底层来了解计算机怎么工作，课程的目标之一就是形成**自下而上**的理解。这样在以后我们遇到一些新技术时，能回想起这门课的内容，**从计算机科学最基础的构件出发，推断出未来那些全新技术背后的运作原理**
