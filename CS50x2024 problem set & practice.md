@@ -578,4 +578,4 @@ bool valid(string password)
 ```
 
 ## week3
-[Snackbar]
+### [Snackbar](https://cs50.harvard.edu/x/2024/practice/snackbar/)
