@@ -244,7 +244,7 @@ char rotate(char c, int i)
 - 注意在`c = (p + k) % 26`中，c、p都是字母的索引（A--0、B--1...），得到明文的索引需要字母**减去'A'或'a'**，通过计算得到密文的索引后，还要**加上'A'或'a'**才能正确输出密文字母
 - 好几次bug都是在检查命令行参数错误后忘记添加`return 1;`这行代码
 ### Subsititution
-作业链接：https://cs50.harvard.edu/x/2024/psets/2/substitution/
+[Subsititution](https://cs50.harvard.edu/x/2024/psets/2/substitution/)
 代码实现：
 ```c
 // 字母替换加密（定制版）
@@ -387,7 +387,7 @@ char rotate(char c, string s)
 ### plurality(多数选举)
 
 # practice
-练习题🔗：https://cs50.harvard.edu/x/2024/practice/
+[practice](https://cs50.harvard.edu/x/2024/practice/)
 ## week1
 ## week2
 ### no-vowels
