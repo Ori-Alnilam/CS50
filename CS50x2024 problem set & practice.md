@@ -1,7 +1,7 @@
 # pset
 ## pset1
 ## pset2
-作业链接：https://cs50.harvard.edu/x/2024/psets/2/
+[pset2](https://cs50.harvard.edu/x/2024/psets/2/)
 ### Scrabble
 ```c
 // 拼字游戏
@@ -154,7 +154,7 @@ int count_sentences(string text)
 - 计算**句子**数量。也就是计算标点符号`. ! ?`的数量啦！简单！
 - 最后打印年级时需要用到math库中的**四舍五入**函数round()
 ### Caesar
-作业链接：https://cs50.harvard.edu/x/2024/psets/2/caesar/
+[Caesar](https://cs50.harvard.edu/x/2024/psets/2/caesar/)
 凯撒算法：c = (p + k) % 26
 ```c
 // 凯撒密码

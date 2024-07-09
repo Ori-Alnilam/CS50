@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50 notes.md"
+                "file": "CS50x2024 problem set & practice.md"
               }
             }
           }
@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50 notes.md",
-                "mode": "preview",
+                "file": "CS50x2024 problem set & practice.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50 notes.md",
+                "file": "CS50x2024 problem set & practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50 notes.md",
+                "file": "CS50x2024 problem set & practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
