@@ -1417,7 +1417,7 @@ int increment(int x)
 ## 课后作业
 ### pset2
 [[CS50x2024 problem set & practice#pset2]]
-![[CS50x2024 problem set & practice#pset2]]
+
 ### practice2
 [[CS50x2024 problem set & practice#week2]]
 ![[CS50x2024 problem set & practice#week2]]

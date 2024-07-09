@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50x2024 problem set & practice.md"
+                "file": "CS50 notes.md"
               }
             }
           }
@@ -31,8 +31,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50x2024 problem set & practice.md",
-                "mode": "preview",
+                "file": "CS50 notes.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50x2024 problem set & practice.md",
+                "file": "CS50 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50x2024 problem set & practice.md",
+                "file": "CS50 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   },
   "active": "4494b9acacc4ccff",
   "lastOpenFiles": [
+    "CS50x2024 problem set & practice.md",
     "CS50 notes.md",
     "2024-07-09.md",
     "picture/Snipaste_2024-07-08_12-28-45.png",
@@ -205,7 +206,6 @@
     "picture/Snipaste_2024-07-08_13-01-12.png",
     "note syncing",
     "Nand2Tetris.md",
-    "CS50x2024 problem set & practice.md",
     "CS50/Nand2Tetris.md",
     "CS50/CS50课程笔记.md",
     "CS50/CS50x2024 problem set & practice.md",
