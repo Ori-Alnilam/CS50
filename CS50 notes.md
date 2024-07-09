@@ -1417,10 +1417,8 @@ int increment(int x)
 ## 课后作业
 ### pset2
 [[CS50x2024 problem set & practice#pset2]]
-
 ### practice2
 [[CS50x2024 problem set & practice#week2]]
-![[CS50x2024 problem set & practice#week2]]
 ## ❓写lab和pset遇到的问题：
 - 在no-vowels中**不会定义一个接受string做参数，并返回string的函数**。switch语句我只会print输出，该怎么return呢?
 ⬆这就是我第一次写这个作业时的奇怪问题啊~当时我还没有完全理解自定义函数的没有返回值void和有返回值分别是怎么一回事——来自2024.06.28的吐槽
