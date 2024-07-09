@@ -4,10 +4,10 @@ date: 2024-04-10
 # 前言
 需要阅读：
 C**风格**指南https://cs50.readthedocs.io/style/c/
-CS50**手册**https://manual.cs50.io/
+[CS50**手册](https://manual.cs50.io/)
 一些链接：
-**练习题**https://cs50.harvard.edu/x/2024/practice/
-**成绩单**https://cs50.me/cs50x
+[练习题](https://cs50.harvard.edu/x/2024/practice/)
+[成绩单](https://cs50.me/cs50x)
 [橡皮鸭](ddbhttps://cs50.ai/chat)
 [我的Github主页](https://github.com/Ori-Alnilam?tab=overview&from=2024-05-01&to=2024-05-31)
 
