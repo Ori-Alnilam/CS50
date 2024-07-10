@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "CS50 notes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -188,7 +188,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "488868552f58f1a3",
+  "active": "4494b9acacc4ccff",
   "lastOpenFiles": [
     "CS50x2024 problem set & practice.md",
     "CS50 notes.md",
