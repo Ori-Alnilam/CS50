@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f78de58b2de3596e",
@@ -168,12 +167,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 242.32794189453125,
-    "collapsed": true
+    "width": 242.32794189453125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,13 +189,14 @@
   },
   "active": "4494b9acacc4ccff",
   "lastOpenFiles": [
-    "CS50x2024 problem set & practice.md",
+    "picture/Pasted image 20240620214714.png",
+    "picture/Pasted image 20240625202713.png",
     "CS50 notes.md",
+    "CS50x2024 problem set & practice.md",
     "2024-07-09.md",
     "picture/Snipaste_2024-07-08_12-28-45.png",
     "note syncing/通过Github Desktop和Git插件实现Obsidian笔记云同步.md",
     "picture/Snipaste_2024-07-08_12-25-09.png",
-    "picture/Pasted image 20240620214714.png",
     "picture/Snipaste_2024-07-08_13-17-04.png",
     "picture/Snipaste_2024-07-08_13-12-19.png",
     "picture/Snipaste_2024-07-08_13-11-55.png",
@@ -235,7 +235,6 @@
     "cs50/碎碎念.pdf",
     "小梦",
     "ddb2024-05-26_13-25-30.md",
-    "学习计划表.md",
-    "Example/timeline callout效果.md"
+    "学习计划表.md"
   ]
 }
