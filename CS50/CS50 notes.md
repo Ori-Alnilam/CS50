@@ -1833,6 +1833,8 @@ int fact(int n)
 #include <cs50.h>
 #include <stdio.h>
 
+int collatz(int n);
+
 int main(void)
 {
 	// Get a positive integer
@@ -1851,10 +1853,11 @@ int collatz(int n)
 	// Base case
 	if (n == 1)
 		return 0;
+	// Recursive case
 	else if (n % 2 == 0)
 		return 1 + collatz(n / 2);
 	else
-		return 1 + collatz(3 * n + 1)
+		return 1 + collatz(3 * n + 1);
 }
 ```
 ## pset3
