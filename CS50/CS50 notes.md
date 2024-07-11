@@ -1846,7 +1846,14 @@ int main(void)
 	printf("Back to 1 takes %i steps.\n", collatz(n));
 }
 
-int colla
+int collatz(int n)
+{
+	// Base case
+	if (n == 1)
+		return 0;
+	else if (n % 2 == 0)
+		retu
+}
 ```
 ## pset3
 - 线性查找linear search
