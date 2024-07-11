@@ -168,12 +168,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 242.32794189453125,
-    "collapsed": true
+    "width": 242.32794189453125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +187,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4494b9acacc4ccff",
+  "active": "c99bef4fa3a659a0",
   "lastOpenFiles": [
+    "Obsidian Sync/新建文件夹",
     "picture/Snipaste_2024-07-08_13-11-55.png",
     "picture/Snipaste_2024-07-08_13-12-19.png",
     "picture/Snipaste_2024-07-08_13-17-04.png",
@@ -200,7 +200,6 @@
     "picture/Snipaste_2024-07-08_12-53-50.png",
     "picture/Snipaste_2024-07-08_12-52-45.png",
     "picture/Snipaste_2024-07-08_12-50-22.png",
-    "picture/Snipaste_2024-07-08_12-47-56.png",
     "note syncing/通过Github Desktop和Git插件实现Obsidian笔记云同步.md",
     "picture",
     "note syncing",
