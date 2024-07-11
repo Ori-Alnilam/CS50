@@ -1795,7 +1795,11 @@ $$
 int fact(int n)
 {
 	// Base case
+	if (n == 1)
+		return 1;
 	// Recursive case
+	else
+		return n * fact(n-1)
 }
 ```
 - iterative version
