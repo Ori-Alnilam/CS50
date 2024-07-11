@@ -385,7 +385,8 @@ char rotate(char c, string s)
 ### [plurality](https://cs50.harvard.edu/x/2024/psets/3/plurality/)
 **TODO:**
 - [x] 从命令行参数获取候选人姓名
-- [x] 用户输入选民人数&各选民投票（
+- [x] 用户输入选民人数&各选民投票（无效票要求重新输入）
+- [x] 打印获胜人 
 
 # [practice](https://cs50.harvard.edu/x/2024/practice/)
 
