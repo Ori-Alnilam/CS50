@@ -1818,13 +1818,13 @@ int fact(int n)
 
 多个`base case`和`recursive case`
 ***Collatz猜想***
-- if n = 1
+- if $n = 1$
 	- stop
 - else
 	- if n = even
-		- n = n / 2
+		- $n = n / 2$
 	- if n = odd
-		- $$n = 
+		- $n = 3*n + 1$
 
 ## pset3
 - 线性查找linear search
