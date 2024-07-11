@@ -382,7 +382,8 @@ char rotate(char c, string s)
 2. 把`string key = argv[1]`移到检查26个字母之前，因此调用`letters_26`和`unique_letters`函数时，传入的参数是`key`而非`argv[1]`，可能会更清晰明了一点~
 
 ## pset3
-### plurality(https://cs50.harvard.edu/x/2024/psets/3/plurality/)
+### [plurality](https://cs50.harvard.edu/x/2024/psets/3/plurality/)
+
 
 # [practice](https://cs50.harvard.edu/x/2024/practice/)
 
