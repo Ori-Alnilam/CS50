@@ -1776,9 +1776,9 @@ Else
 
 ---
 递归地定义一个函数时，需要：
-- base case
-	- a simple solution to a problem which stops the re
-- recursive case
+- **base case**
+	- a simple solution to a problem which stops the recursive process from occurring.
+- **recursive case**
 ***factorial function ($n!$) ***
 数学中的阶乘
 - iterative version
