@@ -1788,11 +1788,15 @@ Else
 $$
 n!=n \times (n-1) \times ... \times 2 \times 1
 $$
-- recursion version
+- **recursion version**
 	- $fact(1) = 1$
 	- $fact(n) = n \times fact(n - 1)$
 ```c
-
+int fact(int n)
+{
+	// Base case
+	// Recursive case
+}
 ```
 - iterative version
 
