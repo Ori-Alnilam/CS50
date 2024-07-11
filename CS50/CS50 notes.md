@@ -1863,6 +1863,7 @@ int fact(int n)
 > }
 > ```
 
+注：老师提过最好不要省略
 ## pset3
 - 线性查找linear search
 
