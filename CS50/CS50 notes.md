@@ -1836,7 +1836,11 @@ int fact(int n)
 int main(void)
 {
 	// Get a positive integer
-	
+	int n = 0;
+	do
+	{
+		n = get_int("A positive integer: ");
+	}
 	// Print the steps of n to 1
 
 }
