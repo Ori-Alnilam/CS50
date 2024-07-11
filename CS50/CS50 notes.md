@@ -1828,7 +1828,18 @@ int fact(int n)
 			- $n = 3*n + 1$
 
 递归地定义collatz函数，计算`n to 1`的步数：
+```c
+// Collatz
+#include <cs50.h>
+#include <stdio.h>
 
+int main(void)
+{
+	// Get a positive integer
+
+	// 
+}
+```
 ## pset3
 - 线性查找linear search
 
