@@ -1818,7 +1818,10 @@ int fact(int n)
 
 多个`base case`和`recursive case`
 ***Collatz猜想***
-
+- if n = 1
+	- stop
+- else
+	- if 
 
 ## pset3
 - 线性查找linear search
