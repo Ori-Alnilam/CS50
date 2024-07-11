@@ -1763,7 +1763,7 @@ Else
 ## Shorts
 ### Bubble Sort
 **In pseudocode:**
-- Set swap counter to a non-zero value
+- Set **swap counter** to a non-zero value
 - Repeat until the swap counter is 0:
 	- Reset swap counter to 0
 	- Look at each adjacent pair(相邻的对)
