@@ -1788,12 +1788,14 @@ Else
 $$
 n!=n \times (n-1) \times ... \times 2 \times 1
 $$
-- iterative version
-	```c
-	
-	```
-
 - recursion version
+	- 
+```c
+
+```
+- iterative version
+
+
 ## pset3
 - 线性查找linear search
 
