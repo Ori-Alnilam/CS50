@@ -242,8 +242,7 @@ char rotate(char c, int i)
 8. **rotate()函数的实现**：接受一个明文的**单字符**和**密钥**，返回一个密文的**单字符**。
 - 注意在`c = (p + k) % 26`中，c、p都是字母的索引（A--0、B--1...），得到明文的索引需要字母**减去'A'或'a'**，通过计算得到密文的索引后，还要**加上'A'或'a'**才能正确输出密文字母
 - 好几次bug都是在检查命令行参数错误后忘记添加`return 1;`这行代码
-### Subsititution
-[Subsititution](https://cs50.harvard.edu/x/2024/psets/2/substitution/)
+### [Subsititution](https://cs50.harvard.edu/x/2024/psets/2/substitution/)
 代码实现：
 ```c
 // 字母替换加密（定制版）
@@ -383,7 +382,7 @@ char rotate(char c, string s)
 2. 把`string key = argv[1]`移到检查26个字母之前，因此调用`letters_26`和`unique_letters`函数时，传入的参数是`key`而非`argv[1]`，可能会更清晰明了一点~
 
 ## pset3
-### plurality(多数选举)
+### plurality(https://cs50.harvard.edu/x/2024/psets/3/plurality/)
 
 # [practice](https://cs50.harvard.edu/x/2024/practice/)
 
