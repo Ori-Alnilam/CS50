@@ -1783,6 +1783,7 @@ Else
 
 ***factorial function ($n!$) ***
 数学中的阶乘
+
 - iterative version
 - recursion version
 ## pset3
