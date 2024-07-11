@@ -1775,6 +1775,7 @@ Else
 > Looking for [[CS50 notes#week3 Algorithms#Shorts#Recursion|recursion]]?
 
 ---
+
 ***factorial function ($n!$) ***
 数学中的阶乘
 - iterative version
