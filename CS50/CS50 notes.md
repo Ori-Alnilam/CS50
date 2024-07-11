@@ -1824,7 +1824,7 @@ int fact(int n)
 	- if n = even
 		- n = n / 2
 	- if n = odd
-		- n = 3*
+		- $$n = 
 
 ## pset3
 - 线性查找linear search
