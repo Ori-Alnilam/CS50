@@ -16,4 +16,4 @@ Name->`testing`，Local path->`E:\`（需要**和Obsidian笔记库路径一致**
 # 检查是否成功
 Obsidian中打开笔记库，修改`欢迎.md`笔记内容![[Snipaste_2024-07-08_13-11-55.png]]
 在自己的GitHub中查看是否同步了修改内容![[Snipaste_2024-07-08_13-12-19.png]]![[Snipaste_2024-07-08_13-17-04.png]]
-完成
+成功撒花~
