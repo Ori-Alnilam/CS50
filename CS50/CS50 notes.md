@@ -1775,7 +1775,10 @@ Else
 > Looking for [[CS50 notes#week3 Algorithms#Shorts#Recursion|recursion]]?
 
 ---
-
+递归地定义一个函数时，需要：
+- base case
+	- 
+- recursive case
 ***factorial function ($n!$) ***
 数学中的阶乘
 - iterative version
