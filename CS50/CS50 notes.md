@@ -1827,6 +1827,8 @@ int fact(int n)
 		- if n = odd
 			- $n = 3*n + 1$
 
+递归地定义collatz函数，计算`n to 1`的步数：
+
 ## pset3
 - 线性查找linear search
 
