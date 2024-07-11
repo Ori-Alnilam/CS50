@@ -1818,7 +1818,7 @@ int fact(int n)
 
 多个`base case`和`recursive case`
 ***Collatz猜想***
-- Repeat until
+- Repeat
 	- if $n = 1$
 		- stop
 	- else
