@@ -1771,7 +1771,7 @@ Else
 加入**swap counter**(交换计数)，当交换次数为0时(表示排序已完成)，退出循环。
 
 ### Recursion
-[Recursion]
+[Recursion](https://cs50.harvard.edu/x/2024/shorts/recursion/)
 - [!] shorts也有`recursion`的彩蛋哦！==~~当然这个笔记里也藏着recursion的彩蛋啦(✿◡‿◡)~~==
 > Looking for [[CS50 notes#week3 Algorithms#Shorts#Recursion|recursion]]?
 
