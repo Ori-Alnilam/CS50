@@ -1806,7 +1806,7 @@ int fact(int n)
 ```c
 int fact(int n)
 {
-
+	int 
 }
 ```
 
@@ -2196,4 +2196,4 @@ image[i][j].rgbtGreen = sepiaGreen(image[i][j].rgbtRed, image[i][j].rgbtGreen, i
 
 image[i][j].rgbtBlue = sepiaBlue(image[i][j].rgbtRed, image[i][j].rgbtGreen, image[i][j].rgbtBlue);
 ```
-在第一条语句执行后，后面函数里传递的参数值就变了
+在第一条语句执行后，后面函数里传递的参数值就�
