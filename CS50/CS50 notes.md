@@ -1715,12 +1715,10 @@ Else
 学习归并排序之前先了解***递归***：
 ### recursion
 > Looking for [[CS50 notes#week3 Algorithms#lecture3 notes#recursion|recursion]]?
-
-> [!note]+ 递归
-> **递归的含义**：当一个函数调用它自身，就说这个函数是递归的。*如在二分查找里伪代码`search the left/right` 就可以视为在一种搜索算法search里又使用了search，这个伪代码在做递归*
-> **Google递归小彩蛋**：试试在Google搜索“recursion”？
-> **递归的两个条件**：1. 递归终止条件(*无限制的递归只会触发段错误*)；2. 问题规模不断缩小(base case)。
-> **分而治之**：先**分**，分到了base case再**治之**
+- **递归的含义**：当一个函数调用它自身，就说这个函数是递归的。*如在二分查找里伪代码`search the left/right` 就可以视为在一种搜索算法search里又使用了search，这个伪代码在做递归*
+- **Google递归小彩蛋**：试试在Google搜索“recursion”？
+- **递归的两个条件**：1. 递归终止条件(*无限制的递归只会触发段错误*)；2. 问题规模不断缩小(base case)。
+- **分而治之**：先**分**，分到了base case再**治之**
 
 用递归来解决pset1马里奥金字塔的例子：
 
