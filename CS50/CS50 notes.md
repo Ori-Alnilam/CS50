@@ -1789,6 +1789,10 @@ $$
 n!=n \times (n-1) \times ... \times 2 \times 1
 $$
 - iterative version
+	```c
+	
+	```
+
 - recursion version
 ## pset3
 - 线性查找linear search
