@@ -1799,7 +1799,7 @@ int fact(int n)
 		return 1;
 	// Recursive case
 	else
-		return n * fact(n-1)
+		return n * fact(n-1);
 }
 ```
 - iterative version
