@@ -1817,6 +1817,8 @@ int fact(int n)
 ```
 
 
+***Collatz猜想***
+
 ## pset3
 - 线性查找linear search
 
