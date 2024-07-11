@@ -1777,9 +1777,9 @@ Else
 ---
 递归地定义一个函数时，需要：
 - **base case**
-	- a simple solution to a problem which stops the recursive process from occurring.
+	- 停止递归条件a simple solution to a problem which stops the recursive process from occurring.
 - **recursive case**
-	- 递归实际发生的地方，函数调用自身的地方。它不会以与被调用时完全相同的方式调用自身，而是每一次调用都让问题bei'd
+	- 递归实际发生的地方，函数调用自身的地方。它不会以与被调用时完全相同的方式调用自身，而是每一次调用都让问题变得更小
 
 ***factorial function ($n!$) ***
 数学中的阶乘
