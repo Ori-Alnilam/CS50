@@ -1836,8 +1836,9 @@ int fact(int n)
 int main(void)
 {
 	// Get a positive integer
+	
+	// Print the steps of n to 1
 
-	// 
 }
 ```
 ## pset3
