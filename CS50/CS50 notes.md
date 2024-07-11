@@ -1821,7 +1821,10 @@ int fact(int n)
 - if n = 1
 	- stop
 - else
-	- if 
+	- if n = even
+		- n = n / 2
+	- if n = odd
+		- n = 3*
 
 ## pset3
 - 线性查找linear search
