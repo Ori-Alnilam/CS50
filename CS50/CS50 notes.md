@@ -1828,38 +1828,41 @@ int fact(int n)
 			- $n = 3*n + 1$
 
 递归地定义collatz函数，计算`n to 1`的步数：
-```c
-// Collatz
-#include <cs50.h>
-#include <stdio.h>
 
-int collatz(int n);
+> [!NOTE]+ Collatz
+> ```c
+> // Collatz
+> #include <cs50.h>
+> #include <stdio.h>
+> 
+> int collatz(int n);
+> 
+> int main(void)
+> {
+> 	// Get a positive integer
+> 	int n = 0;
+> 	do
+> 	{
+> 		n = get_int("A positive integer: ");
+> 	}
+> 	while (n < 1);
+> 	// Print the steps of n to 1
+> 	printf("Back to 1 takes %i steps.\n", collatz(n));
+> }
+> 
+> int collatz(int n)
+> {
+> 	// Base case
+> 	if (n == 1)
+> 		return 0;
+> 	// Recursive case
+> 	else if (n % 2 == 0)
+> 		return 1 + collatz(n / 2);
+> 	else
+> 		return 1 + collatz(3 * n + 1);
+> }
+> ```
 
-int main(void)
-{
-	// Get a positive integer
-	int n = 0;
-	do
-	{
-		n = get_int("A positive integer: ");
-	}
-	while (n < 1);
-	// Print the steps of n to 1
-	printf("Back to 1 takes %i steps.\n", collatz(n));
-}
-
-int collatz(int n)
-{
-	// Base case
-	if (n == 1)
-		return 0;
-	// Recursive case
-	else if (n % 2 == 0)
-		return 1 + collatz(n / 2);
-	else
-		return 1 + collatz(3 * n + 1);
-}
-```
 ## pset3
 - 线性查找linear search
 
