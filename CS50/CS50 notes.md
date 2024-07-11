@@ -1779,7 +1779,7 @@ Else
 - **base case**
 	- a simple solution to a problem which stops the recursive process from occurring.
 - **recursive case**
-	- 
+	- 递归实际发生的地方，函数调用自身的地方。它不hi
 
 ***factorial function ($n!$) ***
 数学中的阶乘
