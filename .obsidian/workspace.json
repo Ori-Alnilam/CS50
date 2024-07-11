@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.32794189453125
+    "width": 242.32794189453125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,7 +188,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4494b9acacc4ccff",
+  "active": "3f90e4bebd06489b",
   "lastOpenFiles": [
     "Obsidian Sync/2.SSH/将HTTPS改为SSH解决Git同步笔记时的网络连接问题.md",
     "Obsidian Sync/1.Sync/通过Github Desktop和Git插件实现Obsidian笔记云同步.md",
