@@ -1784,7 +1784,7 @@ Else
 ***factorial function ($n!$) ***
 数学中的阶乘
 $$
-n!=n \times n-1 \
+n!=n \times (n-1) \times ... \times 2 \times 1
 $$
 - iterative version
 - recursion version
