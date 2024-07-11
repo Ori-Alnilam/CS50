@@ -1804,7 +1804,10 @@ int fact(int n)
 ```
 - **iterative version**
 ```c
+int fact(int n)
+{
 
+}
 ```
 
 
