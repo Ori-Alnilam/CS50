@@ -1841,9 +1841,12 @@ int main(void)
 	{
 		n = get_int("A positive integer: ");
 	}
+	while (n < 1);
 	// Print the steps of n to 1
-
+	printf("Back to 1 takes %i steps.\n", collatz(n));
 }
+
+int colla
 ```
 ## pset3
 - 线性查找linear search
