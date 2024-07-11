@@ -7,7 +7,8 @@
 打开Github Desktop -- File -- New repository![[Snipaste_2024-07-08_12-41-58.png]]
 Name->`testing`，Local path->`E:\`（需要**和Obsidian笔记库路径一致**，在这个示例中是`E:\`）![[Snipaste_2024-07-08_12-44-06.png]]
 点击创建
-点击publish repository，可以选择是否公开![[Snipaste_2024-07-08_12-50-22.png]]
+点击publish repository![[Snipaste_2024-07-08_12-47-56.png]]
+可以选择是否公开![[Snipaste_2024-07-08_12-50-22.png]]
 # 安装Git插件
 回到Obsidian，设置 -- 第三方插件 -- 关闭安全模式![[Snipaste_2024-07-08_12-52-45.png]]
 浏览插件市场 -- 搜索Git -- 安装Git插件![[Snipaste_2024-07-08_12-53-50.png]]![[Snipaste_2024-07-08_12-54-16.png]]
