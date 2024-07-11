@@ -1802,7 +1802,10 @@ int fact(int n)
 		return n * fact(n-1);
 }
 ```
-- iterative version
+- **iterative version**
+```c
+
+```
 
 
 ## pset3
