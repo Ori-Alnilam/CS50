@@ -1714,7 +1714,8 @@ Else
 归并排序总结为四个字：**分而治之！**(divide and conquer)
 学习归并排序之前先了解***递归***：
 ### recursion
-> Looking for [[CS50 notes#]]
+> Looking for [[CS50 notes#week3 Algorithms#lecture3 notes#recursion|recursion]]?
+
 > [!note]+ 递归
 > **递归的含义**：当一个函数调用它自身，就说这个函数是递归的。*如在二分查找里伪代码`search the left/right` 就可以视为在一种搜索算法search里又使用了search，这个伪代码在做递归*
 > **Google递归小彩蛋**：试试在Google搜索“recursion”？
