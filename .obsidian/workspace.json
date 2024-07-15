@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024-07-15.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -188,8 +188,9 @@
   },
   "active": "4494b9acacc4ccff",
   "lastOpenFiles": [
-    "CS50/CS50 notes.md",
+    "2024-07-05.md",
     "2024-07-15.md",
+    "CS50/CS50 notes.md",
     "CS50/CS50x2024 problem set & practice.md",
     "Obsidian Sync/2.SSH/将HTTPS改为SSH解决Git同步笔记时的网络连接问题.md",
     "Obsidian Sync/1.Sync/通过Github Desktop和Git插件实现Obsidian笔记云同步.md",
@@ -233,7 +234,6 @@
     "Example/真Kanban.md",
     "Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
     "未命名.canvas",
-    "cs50/Nand2Tetris.md",
-    "小梦/灵感记录.md"
+    "cs50/Nand2Tetris.md"
   ]
 }
