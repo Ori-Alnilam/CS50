@@ -4,26 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "735f40711722c0c6",
-        "type": "tabs",
-        "dimension": 22.25201072386059,
-        "children": [
-          {
-            "id": "488868552f58f1a3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "meng/小梦想说的话（续）.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "020c2c7c9370b42e",
         "type": "tabs",
-        "dimension": 38.8739946380697,
         "children": [
           {
             "id": "4494b9acacc4ccff",
@@ -31,26 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-15.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b58c35bc05173a78",
-        "type": "tabs",
-        "dimension": 38.8739946380697,
-        "children": [
-          {
-            "id": "3c0a9e78cf549565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meng/小梦想说的话（续）.md",
+                "file": "meng/小梦的日记/2024-07-15.md",
                 "mode": "source",
                 "source": true
               }
@@ -163,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meng/小梦想说的话（续）.md",
+                "file": "meng/小梦的日记/2024-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meng/小梦想说的话（续）.md",
+                "file": "meng/小梦的日记/2024-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,11 +168,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3c0a9e78cf549565",
+  "active": "4494b9acacc4ccff",
   "lastOpenFiles": [
+    "meng/小梦的日记/2024-07-14.md",
+    "meng/小梦的日记/2024-07-15.md",
+    "meng/小梦想说的话（续）.md",
     "未命名.md",
     "meng/小梦的日记",
-    "2024-07-15.md",
     "2024-07-05.md",
     "CS50/CS50 notes.md",
     "CS50/CS50x2024 problem set & practice.md",
@@ -234,7 +199,6 @@
     "picture",
     "note syncing",
     "meng/灵感记录.md",
-    "meng/小梦想说的话（续）.md",
     "meng/picture",
     "meng",
     "Nand2Tetris/Nand2Tetris.md",
