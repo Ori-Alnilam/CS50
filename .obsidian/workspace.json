@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-15.md"
+                "file": "meng/小梦想说的话（续）.md"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "020c2c7c9370b42e",
         "type": "tabs",
-        "dimension": 77.7479892761394,
+        "dimension": 38.8739946380697,
         "children": [
           {
             "id": "4494b9acacc4ccff",
@@ -33,6 +33,25 @@
               "state": {
                 "file": "2024-07-15.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b58c35bc05173a78",
+        "type": "tabs",
+        "dimension": 38.8739946380697,
+        "children": [
+          {
+            "id": "3c0a9e78cf549565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meng/小梦想说的话（续）.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -144,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-15.md",
+                "file": "meng/小梦想说的话（续）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-15.md",
+                "file": "meng/小梦想说的话（续）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,10 +205,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4494b9acacc4ccff",
+  "active": "3c0a9e78cf549565",
   "lastOpenFiles": [
-    "2024-07-05.md",
+    "未命名.md",
+    "meng/小梦的日记",
     "2024-07-15.md",
+    "2024-07-05.md",
     "CS50/CS50 notes.md",
     "CS50/CS50x2024 problem set & practice.md",
     "Obsidian Sync/2.SSH/将HTTPS改为SSH解决Git同步笔记时的网络连接问题.md",
@@ -217,7 +238,6 @@
     "meng/picture",
     "meng",
     "Nand2Tetris/Nand2Tetris.md",
-    "Nand2Tetris",
     "CS50 notes.md",
     "Obsidian Sync/将HTTPS改为SSH解决Git同步笔记时的网络连接问题.md",
     "CS50x2024 problem set & practice.md",
@@ -232,8 +252,6 @@
     "Example/分栏效果示例.md",
     "Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
     "Example/真Kanban.md",
-    "Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
-    "未命名.canvas",
-    "cs50/Nand2Tetris.md"
+    "未命名.canvas"
   ]
 }
