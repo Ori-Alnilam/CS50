@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "020c2c7c9370b42e",
+        "id": "d39af1c8d9a83cbe",
         "type": "tabs",
         "children": [
           {
-            "id": "4494b9acacc4ccff",
+            "id": "8bb7319e9a834673",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meng/小梦的日记/2024-07-17.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9267c6275b6c8407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/01计算机系统概述.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f78de58b2de3596e",
@@ -125,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "操作系统/01计算机系统概述.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -143,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/01计算机系统概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/01计算机系统概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,11 +163,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9267c6275b6c8407",
+  "active": "c99bef4fa3a659a0",
   "lastOpenFiles": [
-    "操作系统",
+    "408/操作系统/01计算机系统概述.md",
     "meng/小梦的日记/2024-07-17.md",
-    "操作系统/01计算机系统概述.md",
+    "408/操作系统",
     "meng/灵感记录.md",
     "meng/给小纳/小梦想说的话（续）",
     "meng/给小纳/新建文件夹",
@@ -215,7 +193,6 @@
     "Obsidian/Sync/2.SSH/将HTTPS改为SSH解决Git同步笔记时的网络连接问题.md",
     "Obsidian/Sync/2.SSH",
     "Obsidian/Sync",
-    "Obsidian/新建文件夹",
     "Obsidian/theme/Example/◾ TableExample/◾ TableExample.md",
     "Obsidian/theme/Example/◾ TableExample/07 - Center Table.md",
     "Obsidian/theme/Example/◾ TableExample/05 - White red.md",
