@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meng/小梦的日记/2024-07-17.md"
+                "file": "Obsidian Sync/1.Sync/通过Github Desktop和Git插件实现Obsidian笔记云同步.md"
               }
             }
           }
@@ -126,8 +126,12 @@
             "id": "54cc3e6a0c0e01e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Sync/1.Sync/通过Github Desktop和Git插件实现Obsidian笔记云同步.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
@@ -136,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meng/小梦的日记/2024-07-17.md",
+                "file": "Obsidian Sync/1.Sync/通过Github Desktop和Git插件实现Obsidian笔记云同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meng/小梦的日记/2024-07-17.md",
+                "file": "Obsidian Sync/1.Sync/通过Github Desktop和Git插件实现Obsidian笔记云同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +163,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,10 +183,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4494b9acacc4ccff",
+  "active": "94b838e7367b1bc5",
   "lastOpenFiles": [
-    "meng/小梦的日记/2024-07-16.md",
     "meng/小梦的日记/2024-07-17.md",
+    "meng/小梦的日记/2024-07-16.md",
     "meng/小梦的日记/2024-07-15.md",
     "408",
     "CS50/CS50 notes.md",
