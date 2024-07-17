@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meng/灵感记录.md",
+                "file": "meng/小梦的日记/2024-07-17.md",
                 "mode": "preview",
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meng/灵感记录.md"
+                "file": "meng/小梦的日记/2024-07-17.md"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meng/灵感记录.md",
+                "file": "meng/小梦的日记/2024-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meng/灵感记录.md",
+                "file": "meng/小梦的日记/2024-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +171,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c99bef4fa3a659a0",
+  "active": "4494b9acacc4ccff",
   "lastOpenFiles": [
+    "meng/灵感记录.md",
     "meng/给小纳/小梦想说的话（续）",
     "meng/给小纳/新建文件夹",
     "meng/给小纳",
@@ -218,7 +219,6 @@
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
     "Obsidian/theme/Example/Reading/霸王别姬.md",
-    "Obsidian/theme/Example/◾ TableExample",
     "未命名.canvas"
   ]
 }
