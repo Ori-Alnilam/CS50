@@ -172,6 +172,9 @@
   },
   "active": "4494b9acacc4ccff",
   "lastOpenFiles": [
+    "theme",
+    "th",
+    "新建文件夹",
     "meng/小梦的日记/2024-07-15.md",
     "meng/小梦的日记/2024-07-16.md",
     "meng/小梦的日记/2024-07-17.md",
@@ -202,9 +205,7 @@
     "Obsidian Sync/新建文件夹",
     "Obsidian Sync/1.Sync",
     "picture",
-    "note syncing",
     "meng/灵感记录.md",
-    "meng/picture",
     "Nand2Tetris/Nand2Tetris.md",
     "CS50 notes.md",
     "Obsidian Sync/将HTTPS改为SSH解决Git同步笔记时的网络连接问题.md",
@@ -217,7 +218,6 @@
     "cs50/CS50x2024 problem set & practice.md",
     "🥑Blue Topaz Themes Tips.md",
     "从这开始.md",
-    "Example/分栏效果示例.md",
     "未命名.canvas"
   ]
 }
