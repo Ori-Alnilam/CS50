@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/theme/🥑Blue Topaz Themes Tips.md",
+                "file": "meng/灵感记录.md",
                 "mode": "preview",
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/theme/🥑Blue Topaz Themes Tips.md"
+                "file": "meng/灵感记录.md"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/theme/🥑Blue Topaz Themes Tips.md",
+                "file": "meng/灵感记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/theme/🥑Blue Topaz Themes Tips.md",
+                "file": "meng/灵感记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +171,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4494b9acacc4ccff",
+  "active": "c99bef4fa3a659a0",
   "lastOpenFiles": [
+    "meng/小梦想说的话（续）.md",
+    "meng/小梦的日记/2024-07-17.md",
+    "Obsidian/theme/🥑Blue Topaz Themes Tips.md",
     "meng/小梦的日记/2024-07-16.md",
     "Obsidian/Sync/1.Sync/picture/Snipaste_2024-07-08_13-17-04.png",
     "Obsidian/Sync/1.Sync/picture/Snipaste_2024-07-08_13-12-19.png",
@@ -212,9 +215,6 @@
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
     "Obsidian/theme/Example/Reading/霸王别姬.md",
     "Obsidian/theme/Example/Reading/雄狮少年.md",
-    "Obsidian/theme/Example/Reading/花束般的恋爱 花束みたいな恋をした.md",
-    "Obsidian/theme/Example/Reading/新·福音战士剧场版：终 シン・エヴァンゲリオン劇場版.md",
-    "Obsidian/theme/Example/Reading/星际穿越 Interstellar.md",
     "Obsidian/theme/Example/◾ TableExample",
     "Obsidian/theme/Example/◾ Cssclass声明样式举例",
     "Obsidian/theme/Example/Reading",
