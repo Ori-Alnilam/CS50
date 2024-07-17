@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/操作系统.md",
+                "file": "操作系统/操作系统.md",
                 "mode": "source",
                 "source": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/操作系统.md"
+                "file": "操作系统/操作系统.md"
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/操作系统.md",
+                "file": "操作系统/操作系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "408/操作系统.md",
+                "file": "操作系统/操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,10 +184,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9267c6275b6c8407",
+  "active": "c99bef4fa3a659a0",
   "lastOpenFiles": [
+    "操作系统",
     "meng/小梦的日记/2024-07-17.md",
-    "408/操作系统.md",
+    "操作系统/操作系统.md",
     "meng/灵感记录.md",
     "meng/给小纳/小梦想说的话（续）",
     "meng/给小纳/新建文件夹",
@@ -231,7 +232,6 @@
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
-    "Obsidian/theme/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
     "未命名.canvas"
   ]
 }
