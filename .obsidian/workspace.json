@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/CS50 notes.md",
+                "file": "CS50/CS50x2024 problem set & practice.md",
                 "mode": "preview",
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/CS50 notes.md"
+                "file": "CS50/CS50x2024 problem set & practice.md"
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/CS50 notes.md",
+                "file": "CS50/CS50x2024 problem set & practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/CS50 notes.md",
+                "file": "CS50/CS50x2024 problem set & practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +175,8 @@
   "active": "8bb7319e9a834673",
   "lastOpenFiles": [
     "408/操作系统/01计算机系统概述.md",
+    "CS50/CS50x2024 problem set & practice.md",
+    "CS50/CS50 notes.md",
     "meng/小梦的日记/2024-07-17.md",
     "408/操作系统",
     "meng/灵感记录.md",
@@ -218,7 +220,6 @@
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
-    "Obsidian/theme/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
     "未命名.canvas"
   ]
 }
