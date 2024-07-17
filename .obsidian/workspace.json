@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/操作系统.md",
+                "file": "操作系统/01计算机系统概述.md",
                 "mode": "source",
                 "source": true
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f78de58b2de3596e",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/操作系统.md"
+                "file": "操作系统/01计算机系统概述.md"
               }
             }
           }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/操作系统.md",
+                "file": "操作系统/01计算机系统概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/操作系统.md",
+                "file": "操作系统/01计算机系统概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,11 +185,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c99bef4fa3a659a0",
+  "active": "9267c6275b6c8407",
   "lastOpenFiles": [
     "操作系统",
     "meng/小梦的日记/2024-07-17.md",
-    "操作系统/操作系统.md",
+    "操作系统/01计算机系统概述.md",
     "meng/灵感记录.md",
     "meng/给小纳/小梦想说的话（续）",
     "meng/给小纳/新建文件夹",
