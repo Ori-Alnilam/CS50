@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9267c6275b6c8407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/未命名.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meng/小梦的日记/2024-07-17.md"
+                "file": "408/未命名.md"
               }
             }
           }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meng/小梦的日记/2024-07-17.md",
+                "file": "408/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meng/小梦的日记/2024-07-17.md",
+                "file": "408/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,15 +184,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4494b9acacc4ccff",
+  "active": "c99bef4fa3a659a0",
   "lastOpenFiles": [
+    "meng/小梦的日记/2024-07-17.md",
+    "408/未命名.md",
     "meng/灵感记录.md",
     "meng/给小纳/小梦想说的话（续）",
     "meng/给小纳/新建文件夹",
     "meng/给小纳",
     "meng/新建文件夹",
     "meng/给小纳/小梦想说的话（续）/小梦想说的话（续）.md",
-    "meng/小梦的日记/2024-07-17.md",
     "Obsidian/theme/🥑Blue Topaz Themes Tips.md",
     "meng/小梦的日记/2024-07-16.md",
     "Obsidian/Sync/1.Sync/picture/Snipaste_2024-07-08_13-17-04.png",
@@ -218,7 +232,6 @@
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
-    "Obsidian/theme/Example/Reading/霸王别姬.md",
     "未命名.canvas"
   ]
 }
