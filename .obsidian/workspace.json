@@ -11,8 +11,12 @@
             "id": "8bb7319e9a834673",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS50/CS50 notes.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -107,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS50/CS50 notes.md"
+              }
             }
           }
         ],
@@ -123,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS50/CS50 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS50/CS50 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +171,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c99bef4fa3a659a0",
+  "active": "8bb7319e9a834673",
   "lastOpenFiles": [
     "408/操作系统/01计算机系统概述.md",
     "meng/小梦的日记/2024-07-17.md",
