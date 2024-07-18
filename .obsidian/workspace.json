@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/CS50 notes.md",
-                "mode": "preview",
+                "file": "408/操作系统/01计算机系统概述.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/CS50 notes.md"
+                "file": "408/操作系统/01计算机系统概述.md"
               }
             }
           }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/CS50 notes.md",
+                "file": "408/操作系统/01计算机系统概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/CS50 notes.md",
+                "file": "408/操作系统/01计算机系统概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,11 +172,11 @@
   },
   "active": "8bb7319e9a834673",
   "lastOpenFiles": [
+    "CS50/CS50 notes.md",
     "meng/小梦的日记/2024-07-18.md",
     "meng/小梦的日记/2024-07-15.md",
     "meng/小梦的日记/2024-07-16.md",
     "meng/小梦的日记/2024-07-17.md",
-    "CS50/CS50 notes.md",
     "CS50/CS50x2024 problem set & practice.md",
     "408/操作系统/01计算机系统概述.md",
     "408/操作系统",
