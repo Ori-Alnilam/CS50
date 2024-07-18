@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "CS50/CS50 notes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f78de58b2de3596e",
@@ -116,7 +117,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "81c2d2bd88eba246",
