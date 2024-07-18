@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/CS50x2024 problem set & practice.md",
-                "mode": "source",
+                "file": "CS50/CS50 notes.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/CS50x2024 problem set & practice.md"
+                "file": "CS50/CS50 notes.md"
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/CS50x2024 problem set & practice.md",
+                "file": "CS50/CS50 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/CS50x2024 problem set & practice.md",
+                "file": "CS50/CS50 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +174,7 @@
   },
   "active": "8bb7319e9a834673",
   "lastOpenFiles": [
+    "CS50/CS50x2024 problem set & practice.md",
     "CS50/CS50 notes.md",
     "meng/小梦的日记/2024-07-18.md",
     "408/操作系统/Operating System.pdf",
@@ -181,7 +182,6 @@
     "meng/小梦的日记/2024-07-15.md",
     "meng/小梦的日记/2024-07-16.md",
     "meng/小梦的日记/2024-07-17.md",
-    "CS50/CS50x2024 problem set & practice.md",
     "408/操作系统",
     "meng/灵感记录.md",
     "meng/给小纳/小梦想说的话（续）",
