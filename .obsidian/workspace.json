@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meng/小梦的日记/2024-07-17.md",
-                "mode": "preview",
+                "file": "meng/小梦的日记/2024-07-18.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -112,12 +112,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meng/小梦的日记/2024-07-17.md"
+                "file": "meng/小梦的日记/2024-07-18.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "81c2d2bd88eba246",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meng/小梦的日记/2024-07-17.md",
+                "file": "meng/小梦的日记/2024-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meng/小梦的日记/2024-07-17.md",
+                "file": "meng/小梦的日记/2024-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +172,13 @@
   },
   "active": "8bb7319e9a834673",
   "lastOpenFiles": [
+    "meng/小梦的日记/2024-07-15.md",
+    "meng/小梦的日记/2024-07-18.md",
+    "meng/小梦的日记/2024-07-16.md",
+    "meng/小梦的日记/2024-07-17.md",
     "CS50/CS50 notes.md",
     "CS50/CS50x2024 problem set & practice.md",
     "408/操作系统/01计算机系统概述.md",
-    "meng/小梦的日记/2024-07-17.md",
     "408/操作系统",
     "meng/灵感记录.md",
     "meng/给小纳/小梦想说的话（续）",
@@ -185,7 +187,6 @@
     "meng/新建文件夹",
     "meng/给小纳/小梦想说的话（续）/小梦想说的话（续）.md",
     "Obsidian/theme/🥑Blue Topaz Themes Tips.md",
-    "meng/小梦的日记/2024-07-16.md",
     "Obsidian/Sync/1.Sync/picture/Snipaste_2024-07-08_13-17-04.png",
     "Obsidian/Sync/1.Sync/picture/Snipaste_2024-07-08_13-12-19.png",
     "Obsidian/Sync/1.Sync/picture/Snipaste_2024-07-08_13-11-55.png",
@@ -217,8 +218,6 @@
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/四象限表格.md",
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
-    "Obsidian/theme/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
-    "Obsidian/theme/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
     "未命名.canvas"
   ]
 }
