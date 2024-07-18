@@ -11,9 +11,11 @@
             "id": "8bb7319e9a834673",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "408/操作系统/Operating System.pdf"
+                "file": "408/操作系统/01计算机系统概述.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f78de58b2de3596e",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/操作系统/Operating System.pdf"
+                "file": "408/操作系统/01计算机系统概述.md"
               }
             }
           }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/操作系统/Operating System.pdf",
+                "file": "408/操作系统/01计算机系统概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "408/操作系统/Operating System.pdf",
+                "file": "408/操作系统/01计算机系统概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,8 +173,8 @@
   },
   "active": "8bb7319e9a834673",
   "lastOpenFiles": [
-    "408/操作系统/01计算机系统概述.md",
     "408/操作系统/Operating System.pdf",
+    "408/操作系统/01计算机系统概述.md",
     "CS50/CS50 notes.md",
     "meng/小梦的日记/2024-07-18.md",
     "meng/小梦的日记/2024-07-15.md",
