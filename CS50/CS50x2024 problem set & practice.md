@@ -588,3 +588,4 @@ bool valid(string password)
 ## week3
 ### [atoi](https://cs50.harvard.edu/x/2024/practice/atoi/)
 ### [Snackbar](https://cs50.harvard.edu/x/2024/practice/snackbar/)
+[Average Temperatures](https://cs50.harvard.edu/x/2024/practice/temps/)
