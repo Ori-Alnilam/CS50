@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/操作系统/01计算机系统概述.md",
+                "file": "meng/小梦的日记/2024-07-18.md",
                 "mode": "source",
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/操作系统/01计算机系统概述.md"
+                "file": "meng/小梦的日记/2024-07-18.md"
               }
             }
           }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/操作系统/01计算机系统概述.md",
+                "file": "meng/小梦的日记/2024-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "408/操作系统/01计算机系统概述.md",
+                "file": "meng/小梦的日记/2024-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,9 +172,9 @@
   },
   "active": "8bb7319e9a834673",
   "lastOpenFiles": [
+    "CS50/CS50 notes.md",
     "408/操作系统/Operating System.pdf",
     "408/操作系统/01计算机系统概述.md",
-    "CS50/CS50 notes.md",
     "meng/小梦的日记/2024-07-18.md",
     "meng/小梦的日记/2024-07-15.md",
     "meng/小梦的日记/2024-07-16.md",
