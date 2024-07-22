@@ -130,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "81c2d2bd88eba246",
@@ -184,7 +185,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "921caa8af30db9f0",
+  "active": "6cdcedccecda968c",
   "lastOpenFiles": [
     "25考研/学校.md",
     "408/操作系统/01计算机系统概述.md",
