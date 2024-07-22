@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8bb7319e9a834673",
+            "id": "921caa8af30db9f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/操作系统/01计算机系统概述.md",
+                "file": "CS50/CS50 notes.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "921caa8af30db9f0",
+            "id": "107d0e1fc593d5ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "CS50/CS50x2024 problem set & practice.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/CS50x2024 problem set & practice.md"
+                "file": "CS50/CS50 notes.md"
               }
             }
           }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/CS50x2024 problem set & practice.md",
+                "file": "CS50/CS50 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/CS50x2024 problem set & practice.md",
+                "file": "CS50/CS50 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,12 +186,12 @@
   },
   "active": "921caa8af30db9f0",
   "lastOpenFiles": [
+    "CS50/CS50x2024 problem set & practice.md",
     "CS50/CS50 notes.md",
     "25考研/学校.md",
     "408/操作系统/01计算机系统概述.md",
     "未命名.canvas",
     "25考研",
-    "CS50/CS50x2024 problem set & practice.md",
     "meng/小梦的日记/2024-07-15.md",
     "meng/灵感记录.md",
     "meng/小梦的日记/2024-07-18.md",
