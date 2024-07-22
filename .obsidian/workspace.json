@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "834d0735841a2a7d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +183,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8bb7319e9a834673",
+  "active": "834d0735841a2a7d",
   "lastOpenFiles": [
     "CS50/CS50x2024 problem set & practice.md",
     "CS50/CS50 notes.md",
