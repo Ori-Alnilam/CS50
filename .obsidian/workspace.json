@@ -11,14 +11,11 @@
             "id": "8bb7319e9a834673",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": -276.2582551580609,
-                  "y": -666.765687025557,
-                  "zoom": -0.009999999999999981
-                }
+                "file": "408/操作系统/01计算机系统概述.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -115,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "408/操作系统/01计算机系统概述.md"
               }
             }
           }
@@ -131,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "408/操作系统/01计算机系统概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "408/操作系统/01计算机系统概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +172,8 @@
   },
   "active": "8bb7319e9a834673",
   "lastOpenFiles": [
-    "408/操作系统/01计算机系统概述.md",
     "未命名.canvas",
+    "408/操作系统/01计算机系统概述.md",
     "未命名",
     "CS50/CS50 notes.md",
     "CS50/CS50x2024 problem set & practice.md",
