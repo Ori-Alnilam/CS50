@@ -586,7 +586,7 @@ bool valid(string password)
 ```
 
 ## week3
-- [x] [atoi](https://cs50.harvard.edu/x/2024/practice/atoi/)(shou'dong'shi(递归)
-- [x] [Average Temperatures](https://cs50.harvard.edu/x/2024/practice/temps/)(选择&冒泡排序)
-- [ ] [Max](https://cs50.harvard.edu/x/2024/practice/max/)
+- [x] [atoi](https://cs50.harvard.edu/x/2024/practice/atoi/)(手动实现atoi)(递归)
+- [x] [Average Temperatures](https://cs50.harvard.edu/x/2024/practice/temps/)(选择&冒泡排序)(练习struct和排序算法的代码实现)
+- [ ] [Max](https://cs50.harvard.edu/x/2024/practice/max/)()
 - [x] [Snackbar](https://cs50.harvard.edu/x/2024/practice/snackbar/)
