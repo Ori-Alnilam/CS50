@@ -586,6 +586,6 @@ bool valid(string password)
 ```
 
 ## week3
-### [atoi](https://cs50.harvard.edu/x/2024/practice/atoi/)(递归)
-### [Average Temperatures](https://cs50.harvard.edu/x/2024/practice/temps/)(排序)
-### [Snackbar](https://cs50.harvard.edu/x/2024/practice/snackbar/)
+- [x] [atoi](https://cs50.harvard.edu/x/2024/practice/atoi/)(递归)
+- [x] [Average Temperatures](https://cs50.harvard.edu/x/2024/practice/temps/)(排序)
+- [x] [Snackbar](https://cs50.harvard.edu/x/2024/practice/snackbar/)
