@@ -11,11 +11,14 @@
             "id": "8bb7319e9a834673",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "408/操作系统/01计算机系统概述.md",
-                "mode": "preview",
-                "source": true
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -112,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/操作系统/01计算机系统概述.md"
+                "file": "未命名.canvas"
               }
             }
           }
@@ -128,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/操作系统/01计算机系统概述.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "408/操作系统/01计算机系统概述.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +175,9 @@
   },
   "active": "8bb7319e9a834673",
   "lastOpenFiles": [
+    "408/操作系统/01计算机系统概述.md",
+    "未命名.canvas",
+    "未命名",
     "CS50/CS50 notes.md",
     "CS50/CS50x2024 problem set & practice.md",
     "meng/小梦的日记/2024-07-15.md",
@@ -181,7 +187,6 @@
     "meng/小梦的日记/2024-07-16.md",
     "meng/给小纳/小梦想说的话（续）/小梦想说的话（续）.md",
     "408/操作系统/Operating System.pdf",
-    "408/操作系统/01计算机系统概述.md",
     "408/操作系统",
     "meng/给小纳/小梦想说的话（续）",
     "meng/给小纳/新建文件夹",
@@ -203,7 +208,6 @@
     "Obsidian/Sync/1.Sync",
     "Obsidian/Sync/2.SSH/picture",
     "Obsidian/Sync/2.SSH/将HTTPS改为SSH解决Git同步笔记时的网络连接问题.md",
-    "Obsidian/Sync/2.SSH",
     "Obsidian/theme/Example/◾ TableExample/◾ TableExample.md",
     "Obsidian/theme/Example/◾ TableExample/07 - Center Table.md",
     "Obsidian/theme/Example/◾ TableExample/05 - White red.md",
@@ -216,7 +220,6 @@
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
-    "Obsidian/theme/Example/◾ Cssclass声明样式举例/四象限表格.md",
-    "未命名.canvas"
+    "Obsidian/theme/Example/◾ Cssclass声明样式举例/四象限表格.md"
   ]
 }
