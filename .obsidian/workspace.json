@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/CS50 notes.md",
+                "file": "meng/给小纳/小梦想说的话（续）/小梦想说的话（续）.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "834d0735841a2a7d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f78de58b2de3596e",
@@ -123,11 +111,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "meng/给小纳/小梦想说的话（续）/小梦想说的话（续）.md"
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "81c2d2bd88eba246",
@@ -139,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "meng/给小纳/小梦想说的话（续）/小梦想说的话（续）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "meng/给小纳/小梦想说的话（续）/小梦想说的话（续）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +170,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "834d0735841a2a7d",
+  "active": "8bb7319e9a834673",
   "lastOpenFiles": [
     "CS50/CS50 notes.md",
     "CS50/CS50x2024 problem set & practice.md",
