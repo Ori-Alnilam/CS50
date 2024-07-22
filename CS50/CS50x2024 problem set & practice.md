@@ -588,5 +588,5 @@ bool valid(string password)
 ## week3
 - [x] [atoi](https://cs50.harvard.edu/x/2024/practice/atoi/)(手动实现atoi)(递归)
 - [x] [Average Temperatures](https://cs50.harvard.edu/x/2024/practice/temps/)(选择&冒泡排序)(练习struct和排序算法的代码实现)
-- [ ] [Max](https://cs50.harvard.edu/x/2024/practice/max/)()
+- [ ] [Max](https://cs50.harvard.edu/x/2024/practice/max/)(找到数组中最大元素)(练习将数组作为函数参数传递)
 - [x] [Snackbar](https://cs50.harvard.edu/x/2024/practice/snackbar/)
