@@ -123,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS50/CS50 notes.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -141,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/CS50 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/CS50 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +181,8 @@
   },
   "active": "834d0735841a2a7d",
   "lastOpenFiles": [
-    "CS50/CS50x2024 problem set & practice.md",
     "CS50/CS50 notes.md",
+    "CS50/CS50x2024 problem set & practice.md",
     "meng/小梦的日记/2024-07-18.md",
     "408/操作系统/Operating System.pdf",
     "408/操作系统/01计算机系统概述.md",
