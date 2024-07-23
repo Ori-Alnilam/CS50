@@ -35,9 +35,11 @@
             "id": "16528efb3cde6286",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "25考研/Snipaste_2024-07-23_15-16-25.png"
+                "file": "25考研/学校.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "25考研/Snipaste_2024-07-23_15-16-25.png"
+                "file": "25考研/学校.md"
               }
             }
           }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25考研/Snipaste_2024-07-23_15-16-25.png",
+                "file": "25考研/学校.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25考研/Snipaste_2024-07-23_15-16-25.png",
+                "file": "25考研/学校.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,10 +198,10 @@
   },
   "active": "16528efb3cde6286",
   "lastOpenFiles": [
+    "25考研/Snipaste_2024-07-23_15-16-25.png",
     "25考研/学校.md",
     "25考研/Snipaste_2024-07-23_15-17-05.png",
     "25考研/Snipaste_2024-07-23_15-16-52.png",
-    "25考研/Snipaste_2024-07-23_15-16-25.png",
     "25考研/Snipaste_2024-07-23_15-08-56.png",
     "25考研/Snipaste_2024-07-23_15-06-14.png",
     "CS50/CS50x2024 problem set & practice.md",
