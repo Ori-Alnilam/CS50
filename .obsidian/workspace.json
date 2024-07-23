@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "16528efb3cde6286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "25考研/学校.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/CS50x2024 problem set & practice.md"
+                "file": "25考研/学校.md"
               }
             }
           }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/CS50x2024 problem set & practice.md",
+                "file": "25考研/学校.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/CS50x2024 problem set & practice.md",
+                "file": "25考研/学校.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,10 +197,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "107d0e1fc593d5ec",
+  "active": "16528efb3cde6286",
   "lastOpenFiles": [
-    "CS50/CS50 notes.md",
     "CS50/CS50x2024 problem set & practice.md",
+    "CS50/CS50 notes.md",
     "25考研/学校.md",
     "408/操作系统/01计算机系统概述.md",
     "未命名.canvas",
