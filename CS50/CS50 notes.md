@@ -1061,7 +1061,7 @@ while (Height < 1 || Height > 8);
 6. **-o限定输出** -- `clang -o hello hello.c` -- 通过`-o`指定输出名称为hello. `-o` means change Clang's output to be a file called **hello** instead of the default, which is **a.out**.
 7. **-l链接第三方库** --  `clang -o hello hello.c -lcs50` -- 手动使用clang编译时若想调用`get_string`函数，光`#include <cs50.h>`是不够的[^1]，编译器虽然知道函数存在，却找不到函数实现的二进制文件（函数的声明和实现），我们还需要**链接**这步：`-l`会把CS50的所有二进制库文件链接到我们的代码里。*使用任何非内置的第三方库，都需要-l链接；对于内置标准库（standard library，带std的）则不需要。*
 8. **make**不止适用于CS50，在C、C++都广泛使用
-9. **编译** -- **preprocessing(预处理)、compiling(编译)、assembling()、linking(链接)
+9. **编译** -- preprocessing(预处理)、compiling(编译)、assembling(汇编)、linking(链接)
 10. **Preprocessing预处理** -- C语言里的特殊符号`#`被称为**预处理指令preprocessor directive** -- anything with a **hash** symbol here(like`#include <cs50.h>`) should be preprocessed-- that is, analyzed initially before anything else happens.任何带有#的语句都会被预处理，也就是先于别的代码被初步分析。
 11. **Where are those header files?(cs50.h & stdio.h)** -- 在code spaces终端键入`ls /usr/include`可见
 12. **cs50.h** -- 文件里是所有CS50函数的**函数声明**function declaration（or函数原型functions prototype)，没有函数实现！所有CS50库中的函数原型，合并到一个名为cs50.h的单独文件中，这样就不必每次使用库里的函数时，都麻烦地手动输入或者复制粘贴 -- 只要include整个cs50.h，编译器会自动为我们复制粘贴过来——这是clang在第一步预处理中做的事情。
