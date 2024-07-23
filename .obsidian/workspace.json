@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "25考研/学校.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f78de58b2de3596e",
@@ -199,6 +198,7 @@
   },
   "active": "16528efb3cde6286",
   "lastOpenFiles": [
+    "25考研/Snipaste_2024-07-23_15-06-14.png",
     "CS50/CS50x2024 problem set & practice.md",
     "CS50/CS50 notes.md",
     "25考研/学校.md",
@@ -244,7 +244,6 @@
     "Obsidian/theme/Example/◾ TableExample/01 - Default Table.md",
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
     "Obsidian/theme/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
-    "Obsidian/theme/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
-    "Obsidian/theme/Example/◾ Cssclass声明样式举例/四象限表格.md"
+    "Obsidian/theme/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md"
   ]
 }
