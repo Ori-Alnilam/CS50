@@ -63,5 +63,6 @@
   "blue-topaz-theme@@background-image-settings-switch": true,
   "blue-topaz-theme@@background-settings-workplace-background-image": false,
   "blue-topaz-theme@@background-notebook-liked-switch": true,
-  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-transparent"
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-transparent",
+  "blue-topaz-theme@@toggle-nonoverlapping-bg": true
 }
