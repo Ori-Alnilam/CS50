@@ -59,5 +59,9 @@
   "blue-topaz-theme@@text-highlight-bg-h-light": 220,
   "blue-topaz-theme@@text-highlight-bg-s-light": 100,
   "blue-topaz-theme@@text-highlight-bg-l-light": 80,
-  "blue-topaz-theme@@text-highlight-bg-a-light": 0.8
+  "blue-topaz-theme@@text-highlight-bg-a-light": 0.8,
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-notebook-liked-switch": true,
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-transparent"
 }
