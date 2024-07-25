@@ -30,19 +30,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "16528efb3cde6286",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "408/操作系统/Operating System.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/操作系统/Operating System.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "408/操作系统/Operating System.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +182,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "16528efb3cde6286",
+  "active": "c99bef4fa3a659a0",
   "lastOpenFiles": [
     "CS50/CS50 notes.md",
     "择校&专业/学校.md",
