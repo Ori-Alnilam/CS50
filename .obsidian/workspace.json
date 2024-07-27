@@ -141,7 +141,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "81c2d2bd88eba246",
@@ -180,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.32794189453125,
-    "collapsed": true
+    "width": 242.32794189453125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +196,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "5bbef4d39c2c0a57",
+  "active": "6cdcedccecda968c",
   "lastOpenFiles": [
     "meng/给小纳/7.25给小纳的信/送给全世界最最好的纳纳子——.md",
     "meng/给小纳/小梦想说的话（续）/小梦想说的话（续）.md",
