@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/CS50 notes.md",
-                "mode": "preview",
+                "file": "meng/给小纳/7.25给小纳的信/送给全世界最最好的纳纳子——.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/CS50 notes.md"
+                "file": "meng/给小纳/7.25给小纳的信/送给全世界最最好的纳纳子——.md"
               }
             }
           }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/CS50 notes.md",
+                "file": "meng/给小纳/7.25给小纳的信/送给全世界最最好的纳纳子——.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/CS50 notes.md",
+                "file": "meng/给小纳/7.25给小纳的信/送给全世界最最好的纳纳子——.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,11 +196,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6cdcedccecda968c",
+  "active": "5bbef4d39c2c0a57",
   "lastOpenFiles": [
+    "CS50/CS50 notes.md",
     "meng/给小纳/7.25给小纳的信/送给全世界最最好的纳纳子——.md",
     "meng/给小纳/小梦想说的话（续）/小梦想说的话（续）.md",
-    "CS50/CS50 notes.md",
     "Obsidian/Sync/1.Sync/通过Github Desktop和Git插件实现Obsidian笔记云同步.md",
     "Obsidian/Sync/2.SSH/将HTTPS改为SSH解决Git同步笔记时的网络连接问题.md",
     "408/操作系统/Operating System.pdf",
