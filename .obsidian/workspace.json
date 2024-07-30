@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meng/给小纳/7.25给小纳的信/送给全世界最最好的纳纳子——.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -154,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meng/给小纳/7.25给小纳的信/送给全世界最最好的纳纳子——.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meng/给小纳/7.25给小纳的信/送给全世界最最好的纳纳子——.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,11 +194,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "5bbef4d39c2c0a57",
+  "active": "c99bef4fa3a659a0",
   "lastOpenFiles": [
+    "meng/给小纳/未命名",
+    "meng/给小纳/7.25给小纳的信/送给全世界最最好的纳纳子——.md",
+    "未命名.md",
     "CS50/CS50 notes.md",
     "Obsidian/theme/🥑Blue Topaz Themes Tips.md",
-    "meng/给小纳/7.25给小纳的信/送给全世界最最好的纳纳子——.md",
     "meng/给小纳/小梦想说的话（续）/小梦想说的话（续）.md",
     "Obsidian/Sync/1.Sync/通过Github Desktop和Git插件实现Obsidian笔记云同步.md",
     "Obsidian/Sync/2.SSH/将HTTPS改为SSH解决Git同步笔记时的网络连接问题.md",
@@ -242,7 +242,6 @@
     "Obsidian/theme/Example/◾ TableExample/04 - Latex like.md",
     "Obsidian/theme/Example/◾ TableExample/02 - PurpleRed.md",
     "Obsidian/theme/Example/◾ TableExample/01 - Default Table.md",
-    "Obsidian/theme/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
-    "Obsidian/theme/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md"
+    "Obsidian/theme/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md"
   ]
 }
