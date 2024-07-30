@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/CS50 notes.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "107d0e1fc593d5ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "meng/Juhayna/secret/小梦的秘密.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,13 +171,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "107d0e1fc593d5ec",
+  "active": "921caa8af30db9f0",
   "lastOpenFiles": [
+    "CS50/CS50 notes.md",
+    "meng/Juhayna/secret/小梦的秘密.md",
     "meng/Juhayna/letters/送给全世界最最好的纳纳子——.md",
     "CS50/CS50x2024 problem set & practice.md",
-    "meng/Juhayna/secret/小梦的秘密.md",
     "meng/灵感记录.md",
-    "CS50/CS50 notes.md",
     "未命名.md",
     "meng/Juhayna/secret",
     "Obsidian/theme/🥑Blue Topaz Themes Tips.md",
