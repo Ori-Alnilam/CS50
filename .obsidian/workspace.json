@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d39af1c8d9a83cbe",
+        "id": "9a56601ff95e85bf",
         "type": "tabs",
         "children": [
           {
-            "id": "921caa8af30db9f0",
+            "id": "bbd204ae38595eb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meng/Juhayna/secret/小梦的秘密.md",
-                "mode": "preview",
+                "file": "meng/小梦的日记/2024-07-15.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meng/Juhayna/secret/小梦的秘密.md"
+                "file": "meng/小梦的日记/2024-07-15.md"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meng/Juhayna/secret/小梦的秘密.md",
+                "file": "meng/小梦的日记/2024-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meng/Juhayna/secret/小梦的秘密.md",
+                "file": "meng/小梦的日记/2024-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,10 +171,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "921caa8af30db9f0",
+  "active": "bbd204ae38595eb9",
   "lastOpenFiles": [
-    "CS50/CS50 notes.md",
+    "meng/小梦的日记/2024-07-16.md",
+    "meng/小梦的日记/2024-07-17.md",
+    "meng/小梦的日记/2024-07-18.md",
     "meng/Juhayna/secret/小梦的秘密.md",
+    "CS50/CS50 notes.md",
     "meng/Juhayna/letters/送给全世界最最好的纳纳子——.md",
     "CS50/CS50x2024 problem set & practice.md",
     "meng/灵感记录.md",
@@ -197,9 +200,6 @@
     "未命名.canvas",
     "择校&专业",
     "meng/小梦的日记/2024-07-15.md",
-    "meng/小梦的日记/2024-07-18.md",
-    "meng/小梦的日记/2024-07-17.md",
-    "meng/小梦的日记/2024-07-16.md",
     "408/操作系统",
     "meng/Juhayna/letters/小梦想说的话（续）",
     "meng/给小纳/新建文件夹",
