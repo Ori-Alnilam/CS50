@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/操作系统/01计算机系统概述.md",
+                "file": "CS50/CS50 notes.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f78de58b2de3596e",
@@ -106,6 +105,16 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "1a7e9e6595908bbc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS50/CS50 notes.md"
+              }
+            }
           }
         ]
       },
@@ -127,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "408/操作系统/01计算机系统概述.md",
+                "file": "CS50/CS50 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "408/操作系统/01计算机系统概述.md",
+                "file": "CS50/CS50 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +181,7 @@
   },
   "active": "4494b9acacc4ccff",
   "lastOpenFiles": [
+    "408/操作系统/01计算机系统概述.md",
     "CS50/CS50 notes.md",
     "meng/小梦的日记/2024-07-15.md",
     "meng/小梦的日记/2024-07-16.md",
@@ -196,7 +206,6 @@
     "择校&专业/image/Snipaste_2024-07-23_15-17-05.png",
     "择校&专业/image/Snipaste_2024-07-23_15-16-52.png",
     "择校&专业/image/Snipaste_2024-07-23_15-08-56.png",
-    "408/操作系统/01计算机系统概述.md",
     "未命名.canvas",
     "择校&专业",
     "408/操作系统",
