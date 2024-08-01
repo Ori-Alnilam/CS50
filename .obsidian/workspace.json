@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9a56601ff95e85bf",
+        "id": "735f40711722c0c6",
         "type": "tabs",
+        "dimension": 22.25201072386059,
         "children": [
           {
-            "id": "bbd204ae38595eb9",
+            "id": "488868552f58f1a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS50/CS50 notes.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "020c2c7c9370b42e",
+        "type": "tabs",
+        "dimension": 77.7479892761394,
+        "children": [
+          {
+            "id": "4494b9acacc4ccff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "CS50/CS50 notes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -105,24 +123,21 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "6cdcedccecda968c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "CS50/CS50 notes.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "81c2d2bd88eba246",
         "type": "tabs",
         "children": [
+          {
+            "id": "54cc3e6a0c0e01e1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
           {
             "id": "f396c26adad0d89e",
             "type": "leaf",
@@ -156,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.32794189453125
+    "width": 242.32794189453125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +187,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bbd204ae38595eb9",
+  "active": "4494b9acacc4ccff",
   "lastOpenFiles": [
     "meng/小梦的日记/2024-07-15.md",
     "meng/小梦的日记/2024-07-16.md",
