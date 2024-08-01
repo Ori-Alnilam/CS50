@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/CS50 notes.md"
+                "file": "408/操作系统/01计算机系统概述.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/CS50 notes.md",
+                "file": "408/操作系统/01计算机系统概述.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f78de58b2de3596e",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/CS50 notes.md",
+                "file": "408/操作系统/01计算机系统概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/CS50 notes.md",
+                "file": "408/操作系统/01计算机系统概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,12 +190,12 @@
   },
   "active": "4494b9acacc4ccff",
   "lastOpenFiles": [
+    "CS50/CS50 notes.md",
     "meng/小梦的日记/2024-07-15.md",
     "meng/小梦的日记/2024-07-16.md",
     "meng/小梦的日记/2024-07-17.md",
     "meng/小梦的日记/2024-07-18.md",
     "meng/Juhayna/secret/小梦的秘密.md",
-    "CS50/CS50 notes.md",
     "meng/Juhayna/letters/送给全世界最最好的纳纳子——.md",
     "CS50/CS50x2024 problem set & practice.md",
     "meng/灵感记录.md",
