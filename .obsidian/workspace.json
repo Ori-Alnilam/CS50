@@ -4,26 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "735f40711722c0c6",
-        "type": "tabs",
-        "dimension": 22.25201072386059,
-        "children": [
-          {
-            "id": "488868552f58f1a3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "408/操作系统/01计算机系统概述.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "020c2c7c9370b42e",
         "type": "tabs",
-        "dimension": 77.7479892761394,
         "children": [
           {
             "id": "4494b9acacc4ccff",
