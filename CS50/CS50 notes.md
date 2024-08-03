@@ -6,10 +6,13 @@ date: 2024-04-10
 [C风格指南](https://cs50.readthedocs.io/style/c/)
 [CS50手册](https://manual.cs50.io/)
 一些链接：
+[课程网站](https://cs50.harvard.edu/x/2024/weeks/4/)
 [练习题](https://cs50.harvard.edu/x/2024/practice/)
 [成绩单](https://cs50.me/cs50x)
 [我的Github主页](https://github.com/Ori-Alnilam?tab=overview&from=2024-05-01&to=2024-05-31)
-
+课程notes：
+[week0](https://cs50.harvard.edu/x/2024/notes/0/)
+[week1](https://cs50.harvard.edu/x/2024/notes/1/)
 
 须知：笔记的作用是自己的lecture notes，在忘记课程中的知识点时，能直接从笔记中获得解答，而不需要再去翻讲座视频。也是一种记录和巩固学习过程：一般视频中某个知识点讲完后，趁热自己从头到尾敲一遍演示代码，再把学到的东西自己（不看视频）写一遍出来，亲自动手的时候就能发现对某些知识点的了解可能还是模糊的，巩固即可。
 
@@ -615,20 +618,21 @@ while (boolean-expr);
 do while()语句与while()语句的区别：do while()保证{}至少会执行一次
 do while循环用于**提示用户输入**，比如希望用户输入一个正整数：
 ```c
+int n;
 do
 {
-	int i = get_int("请输入一个正整数: ");
+	n = get_int("请输入一个正整数: ");
 }
-while (i < 1);
+while (n < 1);
 ```
 **注意while语句后面加分号**
 
 补充：单独用while语句也能实现，但**copy/paste, bad**：
 ```c
-int i = get_int(Size: );
-while (i < 1)
+int n = get_int(Size: );
+while (n < 1)
 {
-	i = get_int(Size: );
+	n = get_int(Size: );
 }
 ```
 1,4行太重复了
@@ -1935,8 +1939,8 @@ char *s = "HI!";
 
 printf("%s\n", s); // HI!
 ```
-- 为什么不需要*(go to the address)?
-在printf里%s就可以去到藏宝图背后的地址打印出值，直到NULL。如果用*则会go to the address打印出这个地址的值，也就是第一个字符的值"H"：
+- 为什么不需要(go to the address)?
+在printf里%s就可以去到藏宝图背后的地址打印出值，直到NULL。如果用则会go to the address打印出这个地址的值，也就是第一个字符的值"H"：
 ```c
 printf("%c\n", *s) // H
 ```

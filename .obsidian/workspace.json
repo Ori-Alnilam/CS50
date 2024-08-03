@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "020c2c7c9370b42e",
+        "id": "3a54e479809d8328",
         "type": "tabs",
         "children": [
           {
-            "id": "4494b9acacc4ccff",
+            "id": "8351990117c68ea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/CS50 notes.md",
+                "file": "meng/Juhayna/letters/送给全世界最最好的纳纳子——.md",
                 "mode": "source",
                 "source": true
               }
@@ -107,48 +107,22 @@
             }
           },
           {
-            "id": "1a7e9e6595908bbc",
+            "id": "5856551f1443d736",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/CS50 notes.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "81c2d2bd88eba246",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "54cc3e6a0c0e01e1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f396c26adad0d89e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "CS50/CS50 notes.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "file": "meng/Juhayna/letters/送给全世界最最好的纳纳子——.md"
               }
             }
           },
           {
-            "id": "94b838e7367b1bc5",
+            "id": "81ff7c752c1c2e3f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/CS50 notes.md",
+                "file": "meng/Juhayna/letters/送给全世界最最好的纳纳子——.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,13 +132,25 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "fc48ca216b5e0cff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "meng/Juhayna/letters/送给全世界最最好的纳纳子——.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 242.32794189453125,
-    "collapsed": true
+    "width": 242.32794189453125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,17 +165,18 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4494b9acacc4ccff",
+  "active": "8351990117c68ea5",
   "lastOpenFiles": [
-    "408/操作系统/01计算机系统概述.md",
     "CS50/CS50 notes.md",
+    "meng/Juhayna/letters/送给全世界最最好的纳纳子——.md",
+    "CS50/CS50x2024 problem set & practice.md",
+    "择校&专业/image/Snipaste_2024-07-23_15-16-25.png",
+    "408/操作系统/01计算机系统概述.md",
     "meng/小梦的日记/2024-07-15.md",
     "meng/小梦的日记/2024-07-16.md",
     "meng/小梦的日记/2024-07-17.md",
     "meng/小梦的日记/2024-07-18.md",
     "meng/Juhayna/secret/小梦的秘密.md",
-    "meng/Juhayna/letters/送给全世界最最好的纳纳子——.md",
-    "CS50/CS50x2024 problem set & practice.md",
     "meng/灵感记录.md",
     "未命名.md",
     "meng/Juhayna/secret",
@@ -202,7 +189,6 @@
     "择校&专业/学校.md",
     "择校&专业/image/Snipaste_2024-07-23_15-06-14.png",
     "择校&专业/image",
-    "择校&专业/image/Snipaste_2024-07-23_15-16-25.png",
     "择校&专业/image/Snipaste_2024-07-23_15-17-05.png",
     "择校&专业/image/Snipaste_2024-07-23_15-16-52.png",
     "择校&专业/image/Snipaste_2024-07-23_15-08-56.png",
@@ -226,7 +212,6 @@
     "Obsidian/theme/Example/◾ TableExample/03 - FlatBlue.md",
     "Obsidian/theme/Example/◾ TableExample/04 - Latex like.md",
     "Obsidian/theme/Example/◾ TableExample/02 - PurpleRed.md",
-    "Obsidian/theme/Example/◾ TableExample/01 - Default Table.md",
-    "Obsidian/theme/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md"
+    "Obsidian/theme/Example/◾ TableExample/01 - Default Table.md"
   ]
 }
