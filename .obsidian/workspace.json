@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meng/小梦的日记/2024-07-17.md",
-                "mode": "preview",
+                "file": "meng/小梦的日记/2024-08-05.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meng/小梦的日记/2024-07-17.md"
+                "file": "meng/小梦的日记/2024-08-05.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meng/小梦的日记/2024-07-17.md",
+                "file": "meng/小梦的日记/2024-08-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,14 +139,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meng/小梦的日记/2024-07-17.md",
+                "file": "meng/小梦的日记/2024-08-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,6 +167,7 @@
   "active": "a7118953935c7d04",
   "lastOpenFiles": [
     "meng/小梦的日记/2024-07-18.md",
+    "meng/小梦的日记/2024-08-05.md",
     "meng/小梦的日记/2024-07-17.md",
     "meng/小梦的日记/2024-07-15.md",
     "meng/灵感记录.md",
